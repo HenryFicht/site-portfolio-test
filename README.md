@@ -19,3 +19,31 @@ In this course you will domine all features, **step by step**, _**from zero to a
 > This is a blockquote, used to highlight some area.
 >
 > Second area highlited
+
+**Command to run the project:**
+```
+npm start
+```
+
+**Example: using script:**
+```js
+function showName(name){
+    return 'Bem-vindo: ' + name; 
+}
+```
+
+**Using HTML component:**
+```html
+<h1>
+    Project Title
+    <span>Git course</span>
+</h1>
+```
+
+**CCS project standard:**
+```CSS
+    .Title{
+        background-color: #FFF
+        color: #FF0000;
+    }
+```
