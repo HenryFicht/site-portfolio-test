@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Git's logo](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
+
+</div>
 
 [Welcome](https://github.com/HenryFicht/site-portfolio-test?tab=readme-ov-file#welcome-git-e-github-course) | 
 [Modules](https://github.com/HenryFicht/site-portfolio-test?tab=readme-ov-file#modules) | 
@@ -54,3 +58,5 @@ function showName(name){
         color: #FF0000;
     }
 ```
+
+[Return to top](https://github.com/HenryFicht/site-portfolio-test?tab=readme-ov-file#welcome-git-e-github-course)
