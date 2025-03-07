@@ -15,3 +15,7 @@ In this course you will domine all features, **step by step**, _**from zero to a
 ### Social Network
 - [Instagram](https://instagram.com/sujeitoprogramador)
 - [YouTube](https://youtube.com/c/sujeitoprogramador)
+
+> This is a blockquote, used to highlight some area.
+>
+> Second area highlited
