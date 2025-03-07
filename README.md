@@ -1,2 +1,9 @@
-# site-portfolio-test
-This is a portfolio test into a site with HTML, CSS e Javascript [git-github-course]
+# Welcome Git e Github Course
+
+In this course you will domine all features, step by step.
+
+## Modules
+
+- What is Git?
+- Learning about repositores
+- Working with branches
